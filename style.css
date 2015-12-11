@@ -127,7 +127,7 @@ div.content {
 }
 .extra .like, .extra .rating {
 	float: right;
-	color: white;
+	color: white !important;
 	font-weight: 300;
 	font-size: 0.76em;
 	padding: 10px 15px;
